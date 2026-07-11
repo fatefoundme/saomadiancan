@@ -124,14 +124,3 @@ POST   /api/auth/login              # 管理员登录
 - **手机适配**：顾客端适配移动端，H5 响应式布局
 - **Token 管理**：axios 拦截器自动携带 JWT，401 自动清除
 
-## 面试可能考察的点
-
-- TypeScript 前后端类型共享
-- Prisma ORM 的关联查询和迁移
-- RESTful API 设计规范
-- WebSocket 实时通信的实现
-- Zustand 状态管理的正确用法（函数选择器 vs 数组订阅）
-- Zod 请求参数校验
-- JWT 认证流程
-- 数据库建模（一对多、多对多关系）
-- AI API 的 Prompt Engineering
