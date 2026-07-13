@@ -129,4 +129,3 @@ POST   /api/auth/login              # 管理员登录
 微信支付的自动跳转（JSAPI /H5支付）需要微信商户号，商户号需要营业执照。
 只能同一局域网扫码。
 
-I’m just a passerby
